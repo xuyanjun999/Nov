@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Abp.RedisCache.ProtoBuf</name>
+    </assembly>
+    <members>
+        <member name="M:Abp.Runtime.Caching.Redis.ProtoBufRedisCacheSerializer.Deserialize(StackExchange.Redis.RedisValue)">
+            <summary>
+                Creates an instance of the object from its serialized string representation.
+            </summary>
+            <param name="objbyte">String representation of the object from the Redis server.</param>
+            <returns>Returns a newly constructed object.</returns>
+            <seealso cref="M:Abp.Runtime.Caching.Redis.IRedisCacheSerializer.Serialize(System.Object,System.Type)" />
+        </member>
+        <member name="M:Abp.Runtime.Caching.Redis.ProtoBufRedisCacheSerializer.Serialize(System.Object,System.Type)">
+            <summary>
+                Produce a string representation of the supplied object.
+            </summary>
+            <param name="value">Instance to serialize.</param>
+            <param name="type">Type of the object.</param>
+            <returns>Returns a string representing the object instance that can be placed into the Redis cache.</returns>
+            <seealso cref="M:Abp.Runtime.Caching.Redis.IRedisCacheSerializer.Deserialize(StackExchange.Redis.RedisValue)" />
+        </member>
+    </members>
+</doc>

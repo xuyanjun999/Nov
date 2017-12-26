@@ -1,0 +1,14 @@
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.Castle.Log4Net.deps.json
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.Castle.Log4Net.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.Castle.Log4Net.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.Castle.Log4Net.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.AssemblyInfoInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.AssemblyInfo.cs
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.pdb

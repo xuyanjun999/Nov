@@ -1,0 +1,17 @@
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.AspNetCore.deps.json
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.AspNetCore.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.AspNetCore.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.AspNetCore.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.Web.Common.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.Web.Common.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.Web.Common.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.AssemblyInfoInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.AssemblyInfo.cs
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.pdb

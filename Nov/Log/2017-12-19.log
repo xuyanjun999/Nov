@@ -1,0 +1,56 @@
+2017-12-19 16:11:33,951 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loading Abp modules...
+2017-12-19 16:11:34,353 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Found 4 ABP modules in total.
+2017-12-19 16:11:34,363 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loaded module: Nov.Startup.NovModule, Nov, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-12-19 16:11:34,368 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-12-19 16:11:34,370 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-12-19 16:11:34,371 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loaded module: Abp.AbpKernelModule, Abp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-12-19 16:11:34,376 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - 4 modules loaded.
+2017-12-19 16:11:35,043 [1] DEBUG Abp.Localization.LocalizationManager [(null)] - Initializing 2 localization sources.
+2017-12-19 16:11:35,066 [1] DEBUG Abp.Localization.LocalizationManager [(null)] - Initialized localization source: Abp
+2017-12-19 16:11:35,069 [1] DEBUG Abp.Localization.LocalizationManager [(null)] - Initialized localization source: AbpWeb
+2017-12-19 16:11:35,590 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager [(null)] - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+2017-12-19 16:11:38,371 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request starting HTTP/1.1 GET http://localhost:59840/  
+2017-12-19 16:11:38,498 [10] WARN  Abp.Logging.LogHelper [(null)] - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+2017-12-19 16:11:38,522 [10] WARN  Abp.Logging.LogHelper [(null)] - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+2017-12-19 16:12:54,955 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loading Abp modules...
+2017-12-19 16:12:55,027 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Found 4 ABP modules in total.
+2017-12-19 16:12:55,038 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loaded module: Nov.Startup.NovModule, Nov, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-12-19 16:12:55,043 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-12-19 16:12:55,044 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-12-19 16:12:55,045 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - Loaded module: Abp.AbpKernelModule, Abp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2017-12-19 16:12:55,050 [1] DEBUG Abp.Modules.AbpModuleManager [(null)] - 4 modules loaded.
+2017-12-19 16:12:55,597 [1] DEBUG Abp.Localization.LocalizationManager [(null)] - Initializing 2 localization sources.
+2017-12-19 16:12:55,625 [1] DEBUG Abp.Localization.LocalizationManager [(null)] - Initialized localization source: Abp
+2017-12-19 16:12:55,629 [1] DEBUG Abp.Localization.LocalizationManager [(null)] - Initialized localization source: AbpWeb
+2017-12-19 16:12:56,008 [1] DEBUG Abp.BackgroundJobs.BackgroundJobManager [(null)] - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+2017-12-19 16:12:58,454 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request starting HTTP/1.1 GET http://localhost:59840/  
+2017-12-19 16:12:58,509 [10] WARN  Abp.Logging.LogHelper [(null)] - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+2017-12-19 16:12:58,525 [10] WARN  Abp.Logging.LogHelper [(null)] - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+2017-12-19 16:13:02,484 [10] INFO  Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker [(null)] - Executing handler method OnGet with arguments ((null)) - ModelState is Valid
+2017-12-19 16:13:02,990 [10] INFO  Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker [(null)] - Executed action /Index in 500.8278ms
+2017-12-19 16:13:03,008 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request finished in 4573.0007ms 200 text/html; charset=utf-8
+2017-12-19 16:13:04,584 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request starting HTTP/1.1 GET http://localhost:59840/test/index  
+2017-12-19 16:13:04,672 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker [(null)] - Executing action method Nov.Areas.Sys.TestController.Index (Nov) with arguments ((null)) - ModelState is Valid
+2017-12-19 16:13:04,673 [10] DEBUG Nov.Areas.Sys.TestController [(null)] - i am test/index
+2017-12-19 16:13:07,096 [10] ERROR Abp.AspNetCore.Mvc.ExceptionHandling.AbpExceptionFilter [(null)] - 哈哈
+System.Exception: 哈哈
+   at Nov.Areas.Sys.TestController.Index() in F:\Visual Studio 2017\Projects\Nov\Nov\Areas\Sys\TestController.cs:line 15
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextExceptionFilterAsync>d__23.MoveNext()
+2017-12-19 16:13:07,159 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor [(null)] - Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2017-12-19 16:13:07,363 [10] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker [(null)] - Executed action Nov.Areas.Sys.TestController.Index (Nov) in 2762.302ms
+2017-12-19 16:13:07,371 [10] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost [(null)] - Request finished in 2785.0342ms 500 application/json; charset=utf-8

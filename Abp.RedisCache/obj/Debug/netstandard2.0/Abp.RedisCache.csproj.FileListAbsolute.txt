@@ -1,0 +1,14 @@
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\bin\Debug\netstandard2.0\Abp.RedisCache.deps.json
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\bin\Debug\netstandard2.0\Abp.RedisCache.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\bin\Debug\netstandard2.0\Abp.RedisCache.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\bin\Debug\netstandard2.0\Abp.RedisCache.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\bin\Debug\netstandard2.0\Abp.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\bin\Debug\netstandard2.0\Abp.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\bin\Debug\netstandard2.0\Abp.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\obj\Debug\netstandard2.0\Abp.RedisCache.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\obj\Debug\netstandard2.0\Abp.RedisCache.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\obj\Debug\netstandard2.0\Abp.RedisCache.AssemblyInfoInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\obj\Debug\netstandard2.0\Abp.RedisCache.AssemblyInfo.cs
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\obj\Debug\netstandard2.0\Abp.RedisCache.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\obj\Debug\netstandard2.0\Abp.RedisCache.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache\obj\Debug\netstandard2.0\Abp.RedisCache.pdb

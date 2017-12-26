@@ -1,0 +1,167 @@
+DEBUG 2017-12-19 15:49:46,893 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-12-19 15:49:46,944 [1    ] Abp.Modules.AbpModuleManager             - Found 4 ABP modules in total.
+DEBUG 2017-12-19 15:49:46,954 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Nov.Startup.NovModule, Nov, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 15:49:46,960 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 15:49:46,961 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 15:49:46,962 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 15:49:46,967 [1    ] Abp.Modules.AbpModuleManager             - 4 modules loaded.
+DEBUG 2017-12-19 15:49:47,504 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2017-12-19 15:49:47,527 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-12-19 15:49:47,530 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-12-19 15:49:48,005 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+INFO  2017-12-19 15:49:51,032 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/  
+WARN  2017-12-19 15:49:51,126 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-12-19 15:49:51,144 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+INFO  2017-12-19 15:49:54,881 [10   ] vc.RazorPages.Internal.PageActionInvoker - Executing handler method OnGet with arguments ((null)) - ModelState is Valid
+INFO  2017-12-19 15:49:55,649 [10   ] vc.RazorPages.Internal.PageActionInvoker - Executed action /Index in 740.1944ms
+INFO  2017-12-19 15:49:55,673 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4712.9382ms 200 text/html; charset=utf-8
+INFO  2017-12-19 15:49:59,437 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/test/index  
+INFO  2017-12-19 15:49:59,538 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Nov.Areas.Sys.TestController.Index (Nov) with arguments ((null)) - ModelState is Valid
+DEBUG 2017-12-19 15:49:59,539 [10   ] Nov.Areas.Sys.TestController             - i am test/index
+INFO  2017-12-19 15:49:59,567 [10   ] matters.Json.Internal.JsonResultExecutor - Executing JsonResult, writing value Abp.Web.Models.AjaxResponse.
+INFO  2017-12-19 15:49:59,950 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Nov.Areas.Sys.TestController.Index (Nov) in 443.2238ms
+INFO  2017-12-19 15:49:59,971 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 518.2859ms 200 application/json; charset=utf-8
+DEBUG 2017-12-19 15:51:20,884 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-12-19 15:51:20,943 [1    ] Abp.Modules.AbpModuleManager             - Found 4 ABP modules in total.
+DEBUG 2017-12-19 15:51:20,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Nov.Startup.NovModule, Nov, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 15:51:20,958 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 15:51:20,959 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 15:51:20,960 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 15:51:20,965 [1    ] Abp.Modules.AbpModuleManager             - 4 modules loaded.
+DEBUG 2017-12-19 15:51:21,352 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2017-12-19 15:51:21,369 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-12-19 15:51:21,372 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-12-19 15:51:21,689 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+INFO  2017-12-19 15:51:24,260 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/  
+WARN  2017-12-19 15:51:24,316 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-12-19 15:51:24,330 [10   ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+INFO  2017-12-19 15:51:28,029 [10   ] vc.RazorPages.Internal.PageActionInvoker - Executing handler method OnGet with arguments ((null)) - ModelState is Valid
+INFO  2017-12-19 15:51:28,433 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/css/site.css  
+INFO  2017-12-19 15:51:28,458 [10   ] vc.RazorPages.Internal.PageActionInvoker - Executed action /Index in 394.7623ms
+INFO  2017-12-19 15:51:28,461 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/lib/jquery/dist/jquery.js  
+INFO  2017-12-19 15:51:28,464 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/lib/bootstrap/dist/css/bootstrap.css  
+INFO  2017-12-19 15:51:28,513 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /lib/bootstrap/dist/css/bootstrap.css was not modified
+INFO  2017-12-19 15:51:28,517 [15   ] NetCore.StaticFiles.StaticFileMiddleware - The file /css/site.css was not modified
+INFO  2017-12-19 15:51:28,544 [17   ] NetCore.StaticFiles.StaticFileMiddleware - The file /lib/jquery/dist/jquery.js was not modified
+INFO  2017-12-19 15:51:28,559 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4276.1727ms 200 text/html; charset=utf-8
+INFO  2017-12-19 15:51:28,579 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 101.8128ms 304 text/css
+INFO  2017-12-19 15:51:28,589 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 121.5056ms 304 application/javascript
+INFO  2017-12-19 15:51:28,596 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 101.8125ms 304 text/css
+INFO  2017-12-19 15:51:28,628 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/images/banner4.svg  
+INFO  2017-12-19 15:51:28,639 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/js/site.js?v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo  
+INFO  2017-12-19 15:51:28,661 [17   ] NetCore.StaticFiles.StaticFileMiddleware - The file /images/banner4.svg was not modified
+INFO  2017-12-19 15:51:28,668 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/lib/bootstrap/dist/js/bootstrap.js  
+INFO  2017-12-19 15:51:28,673 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/images/banner1.svg  
+INFO  2017-12-19 15:51:28,683 [15   ] NetCore.StaticFiles.StaticFileMiddleware - The file /js/site.js was not modified
+INFO  2017-12-19 15:51:28,686 [10   ] NetCore.StaticFiles.StaticFileMiddleware - The file /images/banner1.svg was not modified
+INFO  2017-12-19 15:51:28,701 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 56.3304ms 304 image/svg+xml
+INFO  2017-12-19 15:51:28,735 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /lib/bootstrap/dist/js/bootstrap.js was not modified
+INFO  2017-12-19 15:51:28,754 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2  
+INFO  2017-12-19 15:51:28,758 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 78.3124ms 304 application/javascript
+INFO  2017-12-19 15:51:28,765 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 72.6163ms 304 image/svg+xml
+INFO  2017-12-19 15:51:28,782 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 108.2258ms 304 application/javascript
+INFO  2017-12-19 15:51:28,832 [17   ] NetCore.StaticFiles.StaticFileMiddleware - The file /lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 was not modified
+INFO  2017-12-19 15:51:28,850 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/images/banner2.svg  
+INFO  2017-12-19 15:51:28,880 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/images/banner3.svg  
+INFO  2017-12-19 15:51:28,883 [15   ] NetCore.StaticFiles.StaticFileMiddleware - The file /images/banner2.svg was not modified
+INFO  2017-12-19 15:51:28,892 [10   ] NetCore.StaticFiles.StaticFileMiddleware - The file /images/banner3.svg was not modified
+INFO  2017-12-19 15:51:28,899 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 122.5141ms 304 font/woff2
+INFO  2017-12-19 15:51:28,928 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 118.9811ms 304 image/svg+xml
+INFO  2017-12-19 15:51:28,930 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 86.1849ms 304 image/svg+xml
+INFO  2017-12-19 15:51:32,002 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/test/index  
+INFO  2017-12-19 15:51:32,084 [17   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Nov.Areas.Sys.TestController.Index (Nov) with arguments ((null)) - ModelState is Valid
+DEBUG 2017-12-19 15:51:32,086 [17   ] Nov.Areas.Sys.TestController             - i am test/index
+ERROR 2017-12-19 15:51:34,562 [17   ] Mvc.ExceptionHandling.AbpExceptionFilter - 哈哈
+System.Exception: 哈哈
+   at Nov.Areas.Sys.TestController.Index() in F:\Visual Studio 2017\Projects\Nov\Nov\Areas\Sys\TestController.cs:line 15
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextExceptionFilterAsync>d__23.MoveNext()
+INFO  2017-12-19 15:51:34,649 [17   ] etCore.Mvc.Internal.ObjectResultExecutor - Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+INFO  2017-12-19 15:51:34,864 [17   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Nov.Areas.Sys.TestController.Index (Nov) in 2843.8151ms
+INFO  2017-12-19 15:51:34,872 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2893.6815ms 500 application/json; charset=utf-8
+DEBUG 2017-12-19 16:06:00,673 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2017-12-19 16:06:10,266 [1    ] Abp.Modules.AbpModuleManager             - Found 4 ABP modules in total.
+DEBUG 2017-12-19 16:06:48,131 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Nov.Startup.NovModule, Nov, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 16:06:52,464 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 16:06:55,689 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 16:06:59,311 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2017-12-19 16:08:01,413 [1    ] Abp.Modules.AbpModuleManager             - 4 modules loaded.
+DEBUG 2017-12-19 16:08:14,818 [1    ] Abp.Localization.LocalizationManager     - Initializing 2 localization sources.
+DEBUG 2017-12-19 16:08:14,839 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2017-12-19 16:08:14,841 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2017-12-19 16:08:15,172 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+INFO  2017-12-19 16:09:03,718 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/  
+WARN  2017-12-19 16:09:03,764 [3    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+WARN  2017-12-19 16:09:03,781 [3    ] Abp.Logging.LogHelper                    - ISettingStore is not implemented, using DefaultConfigSettingStore which does not support GetAllListAsync.
+INFO  2017-12-19 16:09:08,119 [3    ] vc.RazorPages.Internal.PageActionInvoker - Executing handler method OnGet with arguments ((null)) - ModelState is Valid
+INFO  2017-12-19 16:09:08,621 [3    ] vc.RazorPages.Internal.PageActionInvoker - Executed action /Index in 503.0447ms
+INFO  2017-12-19 16:09:08,649 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4968.4323ms 200 text/html; charset=utf-8
+INFO  2017-12-19 16:09:08,663 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/css/site.css  
+INFO  2017-12-19 16:09:08,676 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/lib/jquery/dist/jquery.js  
+INFO  2017-12-19 16:09:08,680 [8    ] NetCore.StaticFiles.StaticFileMiddleware - The file /css/site.css was not modified
+INFO  2017-12-19 16:09:08,689 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/lib/bootstrap/dist/css/bootstrap.css  
+INFO  2017-12-19 16:09:08,690 [14   ] NetCore.StaticFiles.StaticFileMiddleware - The file /lib/jquery/dist/jquery.js was not modified
+INFO  2017-12-19 16:09:08,695 [3    ] NetCore.StaticFiles.StaticFileMiddleware - The file /lib/bootstrap/dist/css/bootstrap.css was not modified
+INFO  2017-12-19 16:09:08,711 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 24.8781ms 304 application/javascript
+INFO  2017-12-19 16:09:08,745 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 41.9842ms 304 text/css
+INFO  2017-12-19 16:09:08,748 [18   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/images/banner2.svg  
+INFO  2017-12-19 16:09:08,756 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 18.1375ms 304 text/css
+INFO  2017-12-19 16:09:08,811 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/js/site.js?v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo  
+INFO  2017-12-19 16:09:08,813 [18   ] NetCore.StaticFiles.StaticFileMiddleware - The file /images/banner2.svg was not modified
+INFO  2017-12-19 16:09:08,842 [14   ] NetCore.StaticFiles.StaticFileMiddleware - The file /js/site.js was not modified
+INFO  2017-12-19 16:09:08,847 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/lib/bootstrap/dist/js/bootstrap.js  
+INFO  2017-12-19 16:09:08,853 [18   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 95.9269ms 304 image/svg+xml
+INFO  2017-12-19 16:09:08,857 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/images/banner1.svg  
+INFO  2017-12-19 16:09:08,860 [3    ] NetCore.StaticFiles.StaticFileMiddleware - The file /lib/bootstrap/dist/js/bootstrap.js was not modified
+INFO  2017-12-19 16:09:08,870 [8    ] NetCore.StaticFiles.StaticFileMiddleware - The file /images/banner1.svg was not modified
+INFO  2017-12-19 16:09:08,904 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 65.2268ms 304 image/svg+xml
+INFO  2017-12-19 16:09:08,905 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 89.3324ms 304 application/javascript
+INFO  2017-12-19 16:09:08,914 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 36.9579ms 304 application/javascript
+INFO  2017-12-19 16:09:08,925 [18   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/images/banner3.svg  
+INFO  2017-12-19 16:09:08,972 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2  
+INFO  2017-12-19 16:09:08,974 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/images/banner4.svg  
+INFO  2017-12-19 16:09:08,999 [8    ] NetCore.StaticFiles.StaticFileMiddleware - The file /lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 was not modified
+INFO  2017-12-19 16:09:09,001 [3    ] NetCore.StaticFiles.StaticFileMiddleware - The file /images/banner4.svg was not modified
+INFO  2017-12-19 16:09:09,051 [18   ] NetCore.StaticFiles.StaticFileMiddleware - The file /images/banner3.svg was not modified
+INFO  2017-12-19 16:09:09,058 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 56.209ms 304 font/woff2
+INFO  2017-12-19 16:09:09,065 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 109.3563ms 304 image/svg+xml
+INFO  2017-12-19 16:09:09,070 [18   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 176.8151ms 304 image/svg+xml
+INFO  2017-12-19 16:09:34,926 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:59840/test/index  
+INFO  2017-12-19 16:09:34,988 [3    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Nov.Areas.Sys.TestController.Index (Nov) with arguments ((null)) - ModelState is Valid
+DEBUG 2017-12-19 16:09:34,989 [3    ] Nov.Areas.Sys.TestController             - i am test/index
+ERROR 2017-12-19 16:09:37,440 [3    ] Mvc.ExceptionHandling.AbpExceptionFilter - 哈哈
+System.Exception: 哈哈
+   at Nov.Areas.Sys.TestController.Index() in F:\Visual Studio 2017\Projects\Nov\Nov\Areas\Sys\TestController.cs:line 15
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextExceptionFilterAsync>d__23.MoveNext()
+INFO  2017-12-19 16:09:37,499 [3    ] etCore.Mvc.Internal.ObjectResultExecutor - Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+INFO  2017-12-19 16:09:37,698 [3    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Nov.Areas.Sys.TestController.Index (Nov) in 2757.008ms
+INFO  2017-12-19 16:09:37,702 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2776.0249ms 500 application/json; charset=utf-8

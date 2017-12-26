@@ -1,0 +1,14 @@
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\bin\Debug\netstandard2.0\Abp.QuartzCore.deps.json
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\bin\Debug\netstandard2.0\Abp.QuartzCore.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\bin\Debug\netstandard2.0\Abp.QuartzCore.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\bin\Debug\netstandard2.0\Abp.QuartzCore.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\bin\Debug\netstandard2.0\Abp.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\bin\Debug\netstandard2.0\Abp.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\bin\Debug\netstandard2.0\Abp.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\obj\Debug\netstandard2.0\Abp.QuartzCore.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\obj\Debug\netstandard2.0\Abp.QuartzCore.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\obj\Debug\netstandard2.0\Abp.QuartzCore.AssemblyInfoInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\obj\Debug\netstandard2.0\Abp.QuartzCore.AssemblyInfo.cs
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\obj\Debug\netstandard2.0\Abp.QuartzCore.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\obj\Debug\netstandard2.0\Abp.QuartzCore.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.QuartzCore\obj\Debug\netstandard2.0\Abp.QuartzCore.pdb

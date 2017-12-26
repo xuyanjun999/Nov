@@ -1,0 +1,17 @@
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.EntityFrameworkCore.deps.json
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.EntityFrameworkCore.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.EntityFrameworkCore.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.EntityFrameworkCore.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.EntityFramework.Common.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.EntityFramework.Common.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.EntityFramework.Common.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.pdb
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\bin\Debug\netstandard2.0\Abp.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\obj\Debug\netstandard2.0\Abp.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\obj\Debug\netstandard2.0\Abp.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\obj\Debug\netstandard2.0\Abp.EntityFrameworkCore.AssemblyInfoInputs.cache
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\obj\Debug\netstandard2.0\Abp.EntityFrameworkCore.AssemblyInfo.cs
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\obj\Debug\netstandard2.0\Abp.EntityFrameworkCore.dll
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\obj\Debug\netstandard2.0\Abp.EntityFrameworkCore.xml
+F:\Visual Studio 2017\Projects\Nov\Abp.EntityFrameworkCore\obj\Debug\netstandard2.0\Abp.EntityFrameworkCore.pdb
