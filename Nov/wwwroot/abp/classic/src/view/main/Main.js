@@ -20,47 +20,62 @@ Ext.define('abp.view.main.Main', {
     viewModel: 'main',
     layout: 'border',
 
-    ui: 'navigation',
+
 
     items: [{
         region: 'north',
-        height: 30,
-        title:'i am north',
-        margin:'3px 0px',
+     
+        items: [{
+            xtype: 'toolbar',
+            style:'background-color:#28384A',
+            items: [{
+                xtype: 'tbtext',
+                html: 'EAP-电梯行业高级管理平台'
+            }, '->', {
+                xtype:'button',
+                text:'xuyanjun',
+                menu:[{
+                    text:'许艳君'
+                },{
+                    text:'退出'
+                }]
+            }]
+        }],
+        margin: '3px 0px',
     }, {
         region: 'center',
-     
+
         items: [{
             xtype: 'mainlist'
         }]
     }, {
         region: 'west',
-        title:'左边树',
+        title: '左边树',
         width: 200,
-        split:{
-            width:'3px'
+        split: {
+            width: '3px'
         },
-        layout:'fit',
-        items:{
-            xtype:'treepanel',
+        layout: 'fit',
+        items: {
+            xtype: 'treepanel',
             rootVisible: false,
             lines: false,
             useArrows: true,
-            root:{
-                text:'菜单',
-                children:[{
-                    text:'合同管理',
-                },{
-                    text:'配方管理',
+            root: {
+                text: '菜单',
+                children: [{
+                    text: '合同管理',
+                }, {
+                    text: '配方管理',
                 }]
             },
             dockedItems: [{
                 xtype: 'textfield',
-                border:false,
+                border: false,
                 reference: 'navtreeFilter',
                 dock: 'top',
                 emptyText: 'Search',
-        
+
                 triggers: {
                     clear: {
                         cls: 'x-form-clear-trigger',
@@ -73,10 +88,10 @@ Ext.define('abp.view.main.Main', {
                         weight: 1,
                         handler: 'onNavFilterSearchTriggerClick',
                         scope: 'controller',
-                        border:false
+                        border: false
                     }
                 },
-        
+
                 listeners: {
                     change: 'onNavFilterFieldChange',
                     buffer: 300

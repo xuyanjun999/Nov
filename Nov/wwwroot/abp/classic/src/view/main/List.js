@@ -14,13 +14,17 @@ Ext.define('abp.view.main.List', {
     store: {
         type: 'personnel'
     },
-
     columns: [
         { text: 'Name',  dataIndex: 'name' },
         { text: 'Email', dataIndex: 'email', flex: 1 },
         { text: 'Phone', dataIndex: 'phone', flex: 1 }
     ],
-
+    tbar:[{
+        text:'创建',
+        xtype:'button',
+    },{
+        text:'编辑'
+    }],
     listeners: {
         select: 'onItemSelected'
     }

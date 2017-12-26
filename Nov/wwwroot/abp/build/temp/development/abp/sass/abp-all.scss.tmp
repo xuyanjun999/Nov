@@ -1,6 +1,6 @@
 $app-name:  dynamic( 'abp' );
-$image-search-path: 'F:/extjs/projects/abp/build/development/abp/classic/resources';
-$theme-name:  dynamic( 'theme-triton' );
+$image-search-path: 'F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/build/development/abp/classic/resources';
+$theme-name:  dynamic( 'abp-theme' );
 $include-ext-abstractcomponent: dynamic(true);;
 $include-ext-abstractcontainer: dynamic(true);;
 $include-ext-abstractmanager: dynamic(true);;
@@ -973,6 +973,14 @@ $current-resource-root: $theme-triton-resource-root;
 $relative-image-path-for-uis: $theme-triton-resource-path;
 @import '../../../../../ext/classic/theme-triton/sass/etc/all';
 
+/* including package abp-theme */
+$abp-theme-resource-root: '' !default;
+$abp-theme-resource-path: 'images' !default;
+$current-package: 'abp-theme';
+$current-resource-root: $abp-theme-resource-root;
+$relative-image-path-for-uis: $abp-theme-resource-path;
+@import '../../../../../packages/local/abp-theme/sass/etc/all';
+
 /* including package abp */
 $abp-resource-root: '' !default;
 $abp-resource-path: 'images' !default;
@@ -1156,6 +1164,15 @@ $relative-image-path-for-uis: $theme-triton-resource-path;
 @import '../../../../../ext/classic/theme-triton/sass/var/tab/Tab';
 @import '../../../../../ext/classic/theme-triton/sass/var/tab/Bar';
 @import '../../../../../ext/classic/theme-triton/sass/var/tree/View';
+
+/* including package abp-theme */
+$abp-theme-resource-root: '' !default;
+$abp-theme-resource-path: 'images' !default;
+$current-package: 'abp-theme';
+$current-resource-root: $abp-theme-resource-root;
+$relative-image-path-for-uis: $abp-theme-resource-path;
+@import '../../../../../packages/local/abp-theme/sass/var/Component';
+@import '../../../../../packages/local/abp-theme/sass/var/button/Button';
 
 /* including package abp */
 $abp-resource-root: '' !default;
@@ -1387,4 +1404,5 @@ $abp-resource-path: 'images' !default;
 $current-package: false;
 $current-resource-root: $abp-resource-root;
 $relative-image-path-for-uis: $abp-resource-path;
+@import '../../../../../classic/sass/src/view/main/List';
 @import '../../../../../classic/sass/src/view/main/Main';
