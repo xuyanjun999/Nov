@@ -22,8 +22,10 @@ Ext.define('abp.view.main.List', {
     tbar:[{
         text:'创建',
         xtype:'button',
+        shadow:false
     },{
-        text:'编辑'
+        text:'编辑',
+        style:'-webkit-box-shadow: none;box-shadow: none;'
     }],
     listeners: {
         select: 'onItemSelected'

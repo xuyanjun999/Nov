@@ -1173,6 +1173,7 @@ $current-resource-root: $abp-theme-resource-root;
 $relative-image-path-for-uis: $abp-theme-resource-path;
 @import '../../../../../packages/local/abp-theme/sass/var/Component';
 @import '../../../../../packages/local/abp-theme/sass/var/button/Button';
+@import '../../../../../packages/local/abp-theme/sass/var/form/field/Text';
 
 /* including package abp */
 $abp-resource-root: '' !default;
@@ -1398,6 +1399,14 @@ $relative-image-path-for-uis: $theme-triton-resource-path;
 @import '../../../../../ext/classic/theme-triton/sass/src/tab/Tab';
 @import '../../../../../ext/classic/theme-triton/sass/src/window/Toast';
 
+/* including package abp-theme */
+$abp-theme-resource-root: '' !default;
+$abp-theme-resource-path: 'images' !default;
+$current-package: 'abp-theme';
+$current-resource-root: $abp-theme-resource-root;
+$relative-image-path-for-uis: $abp-theme-resource-path;
+@import '../../../../../packages/local/abp-theme/sass/src/button/Button';
+
 /* including package abp */
 $abp-resource-root: '' !default;
 $abp-resource-path: 'images' !default;
@@ -1405,4 +1414,3 @@ $current-package: false;
 $current-resource-root: $abp-resource-root;
 $relative-image-path-for-uis: $abp-resource-path;
 @import '../../../../../classic/sass/src/view/main/List';
-@import '../../../../../classic/sass/src/view/main/Main';

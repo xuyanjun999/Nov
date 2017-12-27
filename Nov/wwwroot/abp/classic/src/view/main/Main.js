@@ -27,7 +27,6 @@ Ext.define('abp.view.main.Main', {
      
         items: [{
             xtype: 'toolbar',
-            style:'background-color:#28384A',
             items: [{
                 xtype: 'tbtext',
                 html: 'EAP-电梯行业高级管理平台'
