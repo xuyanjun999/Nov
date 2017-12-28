@@ -1413,6 +1413,7 @@ $current-package: 'abp-theme';
 $current-resource-root: $abp-theme-resource-root;
 $relative-image-path-for-uis: $abp-theme-resource-path;
 @import '../../../../../packages/local/abp-theme/sass/src/button/Button';
+@import '../../../../../packages/local/abp-theme/sass/src/toolbar/Toolbar';
 
 /* including package abp */
 $abp-resource-root: '' !default;

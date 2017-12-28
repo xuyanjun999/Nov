@@ -10,7 +10,7 @@ Ext.define('abp.component.page.AppPage', {
 
     initComponent: function () {
         var me = this;
-        me.items.forEach(item => {
+        me.items.forEach(function(item){
             item.appPage = me;
         });
         me.callParent();
