@@ -13,7 +13,9 @@ Ext.define('abp.view.main.Main', {
     requires: [
         'abp.view.main.MainController',
         'abp.view.main.MainModel',
-        'abp.view.main.List'
+        'abp.view.main.List',
+        'abp.view.main.Form',
+        'abp.component.page.AppPage'
     ],
 
     controller: 'main',
@@ -23,79 +25,90 @@ Ext.define('abp.view.main.Main', {
 
 
     items: [{
-        region: 'north',
-     
-        items: [{
-            xtype: 'toolbar',
+            region: 'north',
+
             items: [{
-                xtype: 'tbtext',
-                html: 'EAP-电梯行业高级管理平台'
-            }, '->', {
-                xtype:'button',
-                text:'xuyanjun',
-                menu:[{
-                    text:'许艳君'
-                },{
-                    text:'退出'
+                xtype: 'toolbar',
+                style: 'background-color:#86BC40;',
+                items: [{
+                    xtype: 'tbtext',
+                    style: 'color:white;font-weight:bold;font-size:18px;',
+                    html: 'EAP-电梯行业高级管理平台'
+                }, '->', {
+                    xtype: 'button',
+                    text: 'xuyanjun',
+                    menu: [{
+                        text: '许艳君',
+                    }, {
+                        text: '退出'
+                    }]
                 }]
-            }]
-        }],
-        margin: '3px 0px',
-    }, {
-        region: 'center',
-
-        items: [{
-            xtype: 'mainlist'
-        }]
-    }, {
-        region: 'west',
-        title: '左边树',
-        width: 200,
-        split: {
-            width: '3px'
-        },
-        layout: 'fit',
-        items: {
-            xtype: 'treepanel',
-            rootVisible: false,
-            lines: false,
-            useArrows: true,
-            root: {
-                text: '菜单',
-                children: [{
-                    text: '合同管理',
+            }],
+            //margin: '3px 0px',
+        }, {
+            region: 'center',
+            xtype: 'tabpanel',
+            items: [{
+                xtype: 'apppage',
+                title:'heihei',
+                items: [{
+                    xtype: 'mainlist'
                 }, {
-                    text: '配方管理',
+                    xtype: 'mainform'
+
                 }]
-            },
-            dockedItems: [{
-                xtype: 'textfield',
-                border: false,
-                reference: 'navtreeFilter',
-                dock: 'top',
-                emptyText: 'Search',
-
-                triggers: {
-                    clear: {
-                        cls: 'x-form-clear-trigger',
-                        handler: 'onNavFilterClearTriggerClick',
-                        hidden: true,
-                        scope: 'controller'
-                    },
-                    search: {
-                        cls: 'x-form-search-trigger',
-                        weight: 1,
-                        handler: 'onNavFilterSearchTriggerClick',
-                        scope: 'controller',
-                        border: false
-                    }
-                },
-
-                listeners: {
-                    change: 'onNavFilterFieldChange',
-                    buffer: 300
-                }
             }]
+        },
+        {
+            region: 'west',
+            title: '左边树',
+            width: 200,
+            split: {
+                width: '3px'
+            },
+            layout: 'fit',
+            items: {
+                xtype: 'treepanel',
+                rootVisible: false,
+                lines: false,
+                useArrows: true,
+                root: {
+                    text: '菜单',
+                    children: [{
+                        text: '合同管理',
+                    }, {
+                        text: '配方管理',
+                    }]
+                },
+                dockedItems: [{
+                    xtype: 'textfield',
+                    border: false,
+                    reference: 'navtreeFilter',
+                    dock: 'top',
+                    emptyText: 'Search',
+
+                    triggers: {
+                        clear: {
+                            cls: 'x-form-clear-trigger',
+                            handler: 'onNavFilterClearTriggerClick',
+                            hidden: true,
+                            scope: 'controller'
+                        },
+                        search: {
+                            cls: 'x-form-search-trigger',
+                            weight: 1,
+                            handler: 'onNavFilterSearchTriggerClick',
+                            scope: 'controller',
+                            border: false
+                        }
+                    },
+
+                    listeners: {
+                        change: 'onNavFilterFieldChange',
+                        buffer: 300
+                    }
+                }]
+            }
         }
-    }]
+    ]
 });

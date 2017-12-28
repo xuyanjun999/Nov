@@ -8,6 +8,8 @@ Ext.define('abp.Application', {
     
     name: 'abp',
 
+    //glyphFontFamily:'FontAwesome',
+
     stores: [
         // TODO: add global / shared stores here
     ],
