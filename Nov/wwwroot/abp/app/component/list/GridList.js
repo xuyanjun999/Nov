@@ -11,6 +11,7 @@ Ext.define('abp.component.list.GridList',{
     makePagingBar: function () {
         return {
             xtype: 'pagingtoolbar',
+            style:'padding:3px 0',
             displayInfo: true
         };
     },
