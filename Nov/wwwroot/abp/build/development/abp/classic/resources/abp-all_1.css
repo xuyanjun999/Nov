@@ -293,11 +293,11 @@
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/packages/core/sass/src/list/TreeItem.scss:131 */
 .x-treelist-item-selected > .x-treelist-row {
-    background-color: #ffefbb;
+    background-color: #ebedf7;
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/packages/core/sass/src/list/TreeItem.scss:135 */
 .x-treelist-item-selected > .x-treelist-row-over {
-    background-color: #ffefbb;
+    background-color: #ebedf7;
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/packages/core/sass/src/list/TreeItem.scss:140 */
 .x-treelist-item-tool {
@@ -12998,7 +12998,7 @@ a.x-color-picker-item:hover {
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:76 */
 .x-grid-item-selected {
     color: #404040;
-    background-color: #ffefbb;
+    background-color: #ebedf7;
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:82 */
 .x-grid-with-row-lines .x-grid-item {
@@ -13023,12 +13023,12 @@ a.x-color-picker-item:hover {
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:104 */
 .x-grid-with-row-lines .x-grid-item.x-grid-item-selected {
     border-style: solid;
-    border-color: #f2e3b2;
+    border-color: #dfe1eb;
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:109 */
 .x-grid-with-row-lines .x-grid-item-selected + .x-grid-item {
     border-top-style: solid;
-    border-top-color: #f2e3b2;
+    border-top-color: #dfe1eb;
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:114 */
 .x-grid-with-row-lines .x-grid-item:last-child {
@@ -13078,7 +13078,7 @@ a.x-color-picker-item:hover {
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:231 */
 .x-grid-row .x-grid-cell-selected {
     color: #404040;
-    background-color: #ffefbb;
+    background-color: #ebedf7;
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:238 */
 .x-grid-with-col-lines .x-grid-cell {
@@ -13093,7 +13093,7 @@ a.x-color-picker-item:hover {
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:249 */
 .x-grid-with-col-lines .x-grid-item-selected .x-grid-cell {
-    border-color: #f2e3b2;
+    border-color: #dfe1eb;
     border-style: solid;
 }
 /* F:/Visual Studio 2017/Projects/Nov/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/view/Table.scss:257 */

@@ -908,6 +908,7 @@ $include-ext-window-messagebox: dynamic(true);;
 $include-ext-window-toast: dynamic(true);;
 $include-ext-window-window: dynamic(true);;
 $include-abp-application: dynamic(true);;
+$include-abp-component-list-gridlist: dynamic(true);;
 $include-abp-component-page-apppage: dynamic(true);;
 $include-abp-component-page-apppagectl: dynamic(true);;
 $include-abp-component-page-formpage: dynamic(true);;
@@ -1181,6 +1182,7 @@ $relative-image-path-for-uis: $abp-theme-resource-path;
 @import '../../../../../packages/local/abp-theme/sass/var/Component';
 @import '../../../../../packages/local/abp-theme/sass/var/button/Button';
 @import '../../../../../packages/local/abp-theme/sass/var/form/field/Text';
+@import '../../../../../packages/local/abp-theme/sass/var/view/Table';
 
 /* including package abp */
 $abp-resource-root: '' !default;

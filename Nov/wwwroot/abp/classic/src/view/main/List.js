@@ -9,10 +9,9 @@ Ext.define('abp.view.main.List', {
     xtype: 'mainlist',
 
     requires: [
-        'abp.store.Personnel'
+        'abp.store.Personnel',
+        'abp.component.list.GridList'
     ],
-
-
 
     tree:{
         region: 'west',
@@ -66,7 +65,7 @@ Ext.define('abp.view.main.List', {
     },
 
     list: {
-        xtype: 'gridpanel',
+        xtype: 'gridlist',
         store: {
             type: 'personnel'
         },
@@ -94,8 +93,5 @@ Ext.define('abp.view.main.List', {
             text: '编辑',
 
         }],
-        listeners: {
-            select: 'onItemSelected'
-        }
     }
 });
