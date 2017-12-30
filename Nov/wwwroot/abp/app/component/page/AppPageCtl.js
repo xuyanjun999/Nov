@@ -12,5 +12,6 @@ Ext.define('abp.component.page.AppPageCtl', {
         var view = this.getView();
         var layout = view.getLayout();
         layout.setActiveItem(item);
+        
     }
 });
