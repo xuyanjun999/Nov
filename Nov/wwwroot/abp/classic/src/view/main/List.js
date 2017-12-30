@@ -88,7 +88,7 @@ Ext.define('abp.view.main.List', {
             text: '创建',
             xtype: 'button',
             shadow: false,
-            handler:'onCreate',
+            action:'create',
         }, {
             text: '编辑',
 

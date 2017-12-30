@@ -3,7 +3,9 @@ Ext.define('abp.component.page.AppPage', {
     xtype: 'apppage',
     layout: 'card',
     requires: [
-        'abp.component.page.AppPageCtl'
+        'abp.component.page.AppPageCtl',
+         'abp.util.AbpUtil',
+        'abp.util.Message'
     ],
     controller: 'apppagectl',
     config: {},

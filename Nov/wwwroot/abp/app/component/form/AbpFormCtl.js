@@ -1,6 +1,6 @@
-Ext.define('abp.component.list.GridListCtl',{
+Ext.define('abp.component.form.AbpFormCtl',{
     extend:'Ext.app.ViewController',
-    alias: 'controller.gridlistctl',
+    alias: 'controller.abpformctl',
     control:{
           'button[action]':{
             click:'onActionButtonClick',
@@ -24,8 +24,8 @@ Ext.define('abp.component.list.GridListCtl',{
         console.log(Ext.String.format('未找到对应的actionfunname:{0}',actionFunName));
     },
 
-    oncreate_excute:function(){
-        abp.msg.success('success');
-        this.getView().fireEvent('switchPage',1);
+    onback_excute:function(){
+        console.log('back',this);
+        this.getView().fireEvent('switchPage',0);
     }
 });

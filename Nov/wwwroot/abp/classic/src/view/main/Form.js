@@ -3,11 +3,8 @@ Ext.define('abp.view.main.Form', {
     extend: 'abp.component.page.FormPage',
     xtype: 'widget.mainform',
     form: {
-        xtype:'form',
-        tbar:[{
-            text:'返回',
-            handler:'onBack'
-        }],
+        xtype:'abpform',
+
         items:[{
             xtype:'textfield',
             name:'name',

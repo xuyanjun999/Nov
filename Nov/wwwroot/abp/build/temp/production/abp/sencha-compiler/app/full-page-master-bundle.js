@@ -1,2 +1,2 @@
 // @tag full-page
-// @require F:\Visual Studio 2017\Projects\Nov\Nov\wwwroot\abp\app.js
+// @require /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/app.js

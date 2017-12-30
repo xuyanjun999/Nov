@@ -4,8 +4,10 @@ Ext.define('abp.component.page.AppPageCtl', {
     control: {
         '*': {
             switchPage: 'onSwitchPage'
-        }
+        },
+     
     },
+   
     onSwitchPage: function (item) {
         var view = this.getView();
         var layout = view.getLayout();

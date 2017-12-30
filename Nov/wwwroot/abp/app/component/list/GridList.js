@@ -1,6 +1,10 @@
 Ext.define('abp.component.list.GridList',{
     extend:'Ext.grid.Panel',
     xtype:'gridlist',
+    requires: [
+        'abp.component.list.GridListCtl'
+    ],
+    controller:'gridlistctl',
     config: {
         enableRowEdit: false,
         enableColumnFilter: true,
@@ -12,7 +16,24 @@ Ext.define('abp.component.list.GridList',{
         return {
             xtype: 'pagingtoolbar',
             style:'padding:3px 0',
-            displayInfo: true
+            displayInfo: true,
+            items:[{
+                xtype:'combo',
+                store:{
+                    fields:['pageText','pageSize'],
+                    data:[
+                        {pageText:'10/page',pageSize:10},
+                        {pageText:'20/page',pageSize:20},
+                        {pageText:'50/page',pageSize:50},
+                        {pageText:'100/page',pageSize:100},
+                    ]
+                },
+                displayField:'pageText',
+                valueField:'pageSize',
+                value:10,
+                editable:false,
+                style:'width:100px;margin-left:10px;',
+            }]
         };
     },
 

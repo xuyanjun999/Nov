@@ -68,7 +68,7 @@
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/tab/Tab.scss:2121 */
 .x-tab-inner-default {
-    font: 400 13px/20px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    font: 400 13px/20px '"Helvetica Neue For Number", -apple-system, BlinkMacSystemFont, "egoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif';
     color: #f0f0f0;
     max-width: 100%;
 }
@@ -232,7 +232,7 @@
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/tab/Tab.scss:2642 */
 .x-tab-bar-plain .x-tab.x-tab-active.x-tab-default .x-tab-inner-default {
-    color: #404040;
+    color: rgba(0, 0, 0, 0.7);
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/tab/Tab.scss:2657 */
 .x-tab.x-tab-active.x-tab-default .x-tab-icon-el {
@@ -244,7 +244,7 @@
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/tab/Tab.scss:2671 */
 .x-tab-bar-plain .x-tab.x-tab-active.x-tab-default .x-tab-icon-el {
-    color: #404040;
+    color: rgba(0, 0, 0, 0.7);
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/tab/Tab.scss:2692 */
 .x-tab-focus.x-tab-active.x-tab-default {
@@ -253,11 +253,11 @@
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/tab/Tab.scss:2753 */
 .x-tab-bar-plain .x-tab-focus.x-tab-active.x-tab-default .x-tab-inner-default {
-    color: #404040;
+    color: rgba(0, 0, 0, 0.7);
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/tab/Tab.scss:2784 */
 .x-tab-bar-plain .x-tab-focus.x-tab-active.x-tab-default .x-tab-icon-el {
-    color: #404040;
+    color: rgba(0, 0, 0, 0.7);
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/tab/Tab.scss:2808 */
 .x-tab.x-tab-disabled.x-tab-default {
@@ -1705,7 +1705,7 @@
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/button/Button.scss:464 */
 .x-btn-inner-plain-toolbar-small {
-    font: 400 12px/16px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    font: 400 12px/16px '"Helvetica Neue For Number", -apple-system, BlinkMacSystemFont, "egoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif';
     color: #606060;
     padding: 0 5px;
     max-width: 100%;
@@ -2287,7 +2287,7 @@
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/button/Button.scss:464 */
 .x-btn-inner-plain-toolbar-medium {
-    font: 400 14px/18px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    font: 400 14px/18px '"Helvetica Neue For Number", -apple-system, BlinkMacSystemFont, "egoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif';
     color: #606060;
     padding: 0 8px;
     max-width: 100%;
@@ -2869,7 +2869,7 @@
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/button/Button.scss:464 */
 .x-btn-inner-plain-toolbar-large {
-    font: 400 16px/20px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    font: 400 16px/20px '"Helvetica Neue For Number", -apple-system, BlinkMacSystemFont, "egoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif';
     color: #606060;
     padding: 0 10px;
     max-width: 100%;
@@ -3432,7 +3432,7 @@
     color: #606060;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    font-family: '"Helvetica Neue For Number", -apple-system, BlinkMacSystemFont, "egoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif';
     line-height: 20px;
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/panel/Panel.scss:400 */
@@ -3486,10 +3486,10 @@
 .x-panel-body-light {
     background: #fff;
     border-color: #d0d0d0;
-    color: #404040;
+    color: rgba(0, 0, 0, 0.7);
     font-size: 13px;
-    font-weight: 300;
-    font-family: 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    font-weight: 'bold';
+    font-family: '"Helvetica Neue For Number", -apple-system, BlinkMacSystemFont, "egoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif';
     border-width: 1px;
     border-style: solid;
 }
@@ -3797,7 +3797,7 @@
     color: #606060;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    font-family: '"Helvetica Neue For Number", -apple-system, BlinkMacSystemFont, "egoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif';
     line-height: 20px;
 }
 /* /Users/xuyanjun/Projects/xuyanjun999/Nov.git/Nov/wwwroot/abp/ext/classic/theme-neutral/sass/src/panel/Panel.scss:400 */
@@ -3851,10 +3851,10 @@
 .x-panel-body-light-framed {
     background: #fff;
     border-color: #d0d0d0;
-    color: #404040;
+    color: rgba(0, 0, 0, 0.7);
     font-size: 13px;
-    font-weight: 300;
-    font-family: 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    font-weight: 'bold';
+    font-family: '"Helvetica Neue For Number", -apple-system, BlinkMacSystemFont, "egoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif';
     border-width: 1px;
     border-style: solid;
 }

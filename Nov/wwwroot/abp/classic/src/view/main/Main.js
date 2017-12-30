@@ -15,7 +15,8 @@ Ext.define('abp.view.main.Main', {
         'abp.view.main.MainModel',
         'abp.view.main.List',
         'abp.view.main.Form',
-        'abp.component.page.AppPage'
+        'abp.component.page.AppPage',
+     
     ],
 
     controller: 'main',

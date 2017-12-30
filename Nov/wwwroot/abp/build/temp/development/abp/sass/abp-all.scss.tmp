@@ -908,7 +908,10 @@ $include-ext-window-messagebox: dynamic(true);;
 $include-ext-window-toast: dynamic(true);;
 $include-ext-window-window: dynamic(true);;
 $include-abp-application: dynamic(true);;
+$include-abp-component-form-abpform: dynamic(true);;
+$include-abp-component-form-abpformctl: dynamic(true);;
 $include-abp-component-list-gridlist: dynamic(true);;
+$include-abp-component-list-gridlistctl: dynamic(true);;
 $include-abp-component-page-apppage: dynamic(true);;
 $include-abp-component-page-apppagectl: dynamic(true);;
 $include-abp-component-page-formpage: dynamic(true);;
@@ -921,6 +924,8 @@ $include-abp-view-main-list: dynamic(true);;
 $include-abp-view-main-main: dynamic(true);;
 $include-abp-view-main-maincontroller: dynamic(true);;
 $include-abp-view-main-mainmodel: dynamic(true);;
+$include-apb-util-abputil: dynamic(true);;
+$include-apb-util-message: dynamic(true);;
 $output-paths: ("path": "../../classic/resources", "shared": "../../resources");
 
 /* ======================== ETC ======================== */
