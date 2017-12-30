@@ -1,10 +1,44 @@
 ﻿<Properties StartupConfiguration="{176F020A-9989-4071-BDB3-C909B127A055}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Nov/Pages/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nov/Startup/Startup.cs">
     <Files>
       <File FileName="Nov/Log/2017-12-19.log" Line="1" Column="1" />
       <File FileName="Nov/Pages/Index.cshtml" Line="1" Column="1" />
       <File FileName="Nov/Pages/Index.cshtml.cs" Line="1" Column="1" />
       <File FileName="Nov/Pages/Error.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/AbpDbContext.cs" Line="92" Column="10" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Repositories/EfCoreAutoRepositoryTypes.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Repositories/EfCoreRepositoryBaseOfTEntity.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Repositories/EfCoreRepositoryBaseOfTEntityAndTPrimaryKey.cs" Line="25" Column="43" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Repositories/EfCoreRepositoryExtensions.cs" Line="14" Column="40" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Repositories/IRepositoryWithDbContext.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/EfCoreDbContextEntityFinder.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/EfCoreBasedSecondaryOrmRegistrar.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFramework.Common/AbpEntityFrameworkCommonModule.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFramework.Common/DbContextTypeMatcher.cs" Line="24" Column="51" />
+      <File FileName="Abp.EntityFramework.Common/DefaultDbContextAttribute.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFramework.Common/IDbContextEntityFinder.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFramework.Common/IDbContextTypeMatcher.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFramework.Common/SecondaryOrmRegistrarBase.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFramework.Common/Repositories/EfGenericRepositoryRegistrar.cs" Line="79" Column="52" />
+      <File FileName="Abp.EntityFramework.Common/Repositories/IEfGenericRepositoryRegistrar.cs" Line="1" Column="1" />
+      <File FileName="Nov/Startup/Program.cs" Line="1" Column="1" />
+      <File FileName="Nov/Startup/Startup.cs" Line="30" Column="17" />
+      <File FileName="Nov/Startup/NovModule.cs" Line="12" Column="59" />
+      <File FileName="Nov/Controllers/NovController.cs" Line="9" Column="47" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Configuration/IAbpDbContextConfigurer.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Configuration/AbpEfCoreConfiguration.cs" Line="22" Column="53" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Configuration/AbpAspNetCoreConfigurationExtensions.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Extensions/DbContextExtensions.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Extensions/QueryableExtensions.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Linq/EfCoreAsyncQueryableExecuter.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Uow/EfCoreUnitOfWork.cs" Line="13" Column="2" />
+      <File FileName="Nov.Data/DbContext/NovDbContext.cs" Line="12" Column="10" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/Configuration/AbpDbContextConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/AbpEntityFrameworkCoreModule.cs" Line="22" Column="46" />
+      <File FileName="Abp.EntityFrameworkCore/EntityFrameworkCore/DbContextTypeMatcher.cs" Line="6" Column="61" />
+      <File FileName="Abp/Configuration/Startup/AbpStartupConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Abp/Configuration/Startup/AbpStartupConfigurationExtensions.cs" Line="1" Column="1" />
+      <File FileName="Nov.Data/NovDataModule.cs" Line="12" Column="45" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

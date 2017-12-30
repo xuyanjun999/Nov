@@ -7,25 +7,27 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nov", "Nov\Nov.csproj", "{1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{33F89BFD-817F-45FE-B68F-876C937010F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp", "Abp\Abp.csproj", "{902B18A3-FFFC-42CA-9D8B-A4EC037C7F01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp", "Abp\Abp.csproj", "{902B18A3-FFFC-42CA-9D8B-A4EC037C7F01}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.AspNetCore", "Abp.AspNetCore\Abp.AspNetCore.csproj", "{258C72C6-D29E-4F4A-99A9-D312CCC118C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.AspNetCore", "Abp.AspNetCore\Abp.AspNetCore.csproj", "{258C72C6-D29E-4F4A-99A9-D312CCC118C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.AutoMapper", "Abp.AutoMapper\Abp.AutoMapper.csproj", "{3E975D9E-D514-4397-989C-8F0135CA450B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.AutoMapper", "Abp.AutoMapper\Abp.AutoMapper.csproj", "{3E975D9E-D514-4397-989C-8F0135CA450B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.Castle.Log4Net", "Abp.Castle.Log4Net\Abp.Castle.Log4Net.csproj", "{BCEF0444-9A7E-4684-B426-1C3B8F7D64E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.Castle.Log4Net", "Abp.Castle.Log4Net\Abp.Castle.Log4Net.csproj", "{BCEF0444-9A7E-4684-B426-1C3B8F7D64E9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.EntityFramework.Common", "Abp.EntityFramework.Common\Abp.EntityFramework.Common.csproj", "{1341038A-E64F-422A-BF7C-3356893DC599}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.EntityFramework.Common", "Abp.EntityFramework.Common\Abp.EntityFramework.Common.csproj", "{1341038A-E64F-422A-BF7C-3356893DC599}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.EntityFrameworkCore", "Abp.EntityFrameworkCore\Abp.EntityFrameworkCore.csproj", "{0F2F0D53-66A6-4A0F-8B03-8FEA43DE4CF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.EntityFrameworkCore", "Abp.EntityFrameworkCore\Abp.EntityFrameworkCore.csproj", "{0F2F0D53-66A6-4A0F-8B03-8FEA43DE4CF6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.QuartzCore", "Abp.QuartzCore\Abp.QuartzCore.csproj", "{E741B205-ABD5-48D3-AC23-3A4ED4949CF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.QuartzCore", "Abp.QuartzCore\Abp.QuartzCore.csproj", "{E741B205-ABD5-48D3-AC23-3A4ED4949CF1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.RedisCache", "Abp.RedisCache\Abp.RedisCache.csproj", "{653C419B-FB7F-4030-B1EE-7D9D86F37C39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.RedisCache", "Abp.RedisCache\Abp.RedisCache.csproj", "{653C419B-FB7F-4030-B1EE-7D9D86F37C39}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.RedisCache.ProtoBuf", "Abp.RedisCache.ProtoBuf\Abp.RedisCache.ProtoBuf.csproj", "{4AE80627-8E16-4599-9C8B-635286CFBBE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.RedisCache.ProtoBuf", "Abp.RedisCache.ProtoBuf\Abp.RedisCache.ProtoBuf.csproj", "{4AE80627-8E16-4599-9C8B-635286CFBBE4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abp.Web.Common", "Abp.Web.Common\Abp.Web.Common.csproj", "{917F3628-5E7E-4784-B1DB-F15A4C4216D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.Web.Common", "Abp.Web.Common\Abp.Web.Common.csproj", "{917F3628-5E7E-4784-B1DB-F15A4C4216D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nov.Data", "Nov.Data\Nov.Data.csproj", "{56928464-4AB7-4EFE-BA29-724372DD97F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,10 @@ Global
 		{917F3628-5E7E-4784-B1DB-F15A4C4216D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{917F3628-5E7E-4784-B1DB-F15A4C4216D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{917F3628-5E7E-4784-B1DB-F15A4C4216D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56928464-4AB7-4EFE-BA29-724372DD97F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56928464-4AB7-4EFE-BA29-724372DD97F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56928464-4AB7-4EFE-BA29-724372DD97F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56928464-4AB7-4EFE-BA29-724372DD97F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

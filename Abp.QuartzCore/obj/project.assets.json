@@ -5795,40 +5795,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xuyan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/xuyanjun/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "F:\\Visual Studio 2017\\Projects\\Nov\\Abp.QuartzCore\\Abp.QuartzCore.csproj",
+      "projectUniqueName": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.QuartzCore/Abp.QuartzCore.csproj",
       "projectName": "Abp.QuartzCore",
-      "projectPath": "F:\\Visual Studio 2017\\Projects\\Nov\\Abp.QuartzCore\\Abp.QuartzCore.csproj",
-      "packagesPath": "C:\\Users\\xuyan\\.nuget\\packages\\",
-      "outputPath": "F:\\Visual Studio 2017\\Projects\\Nov\\Abp.QuartzCore\\obj\\",
+      "projectPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.QuartzCore/Abp.QuartzCore.csproj",
+      "packagesPath": "/Users/xuyanjun/.nuget/packages/",
+      "outputPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.QuartzCore/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\xuyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/xuyanjun/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "F:\\Visual Studio 2017\\Projects\\Nov\\Abp\\Abp.csproj": {
-              "projectPath": "F:\\Visual Studio 2017\\Projects\\Nov\\Abp\\Abp.csproj"
+            "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp/Abp.csproj": {
+              "projectPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp/Abp.csproj"
             }
           }
         }
@@ -5845,12 +5840,12 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0.0",
             "autoReferenced": true
           },
           "Quartz": {
             "target": "Package",
-            "version": "[3.0.0-beta1, )"
+            "version": "3.0.0-beta1"
           }
         },
         "imports": [

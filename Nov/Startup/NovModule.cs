@@ -9,7 +9,7 @@ using Abp.AspNetCore.Configuration;
 
 namespace Nov.Startup
 {
-    [DependsOn(typeof(AbpAspNetCoreModule))]
+    [DependsOn(typeof(AbpAspNetCoreModule),typeof(NovDataModule))]
     public class NovModule:AbpModule
     {
         public override void PreInitialize()
