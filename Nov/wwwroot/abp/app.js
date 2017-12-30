@@ -10,6 +10,8 @@ Ext.application({
 
     requires: [
         'abp.view.main.Main',
+        'abp.util.AbpUtil',
+        'abp.util.Message'
     ],
 
     // The name of the initial view to create. With the classic toolkit this class

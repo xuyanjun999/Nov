@@ -4,8 +4,7 @@ Ext.define('abp.component.page.AppPage', {
     layout: 'card',
     requires: [
         'abp.component.page.AppPageCtl',
-         'abp.util.AbpUtil',
-        'abp.util.Message'
+       
     ],
     controller: 'apppagectl',
     config: {},

@@ -1,6 +1,4 @@
-
-Ext.define('apb.util.AbpUtil', {
-    extend:'Ext.Base',
+Ext.define('abp.util.AbpUtil',{
     ajax: function (opt) {
         var _success = opt.success;
         var _failure = opy.failure
@@ -18,4 +16,6 @@ Ext.define('apb.util.AbpUtil', {
         Ext.Ajax.request(opt);
     },
 
+},function(cls){
+    if(!abp.util)abp.util=new cls();
 });

@@ -1,5 +1,4 @@
-Ext.define('apb.util.Message', {
-
+Ext.define('abp.util.Message', {
     success: function (message) {
         Ext.Msg.show({
             title: '成功',
@@ -33,4 +32,7 @@ Ext.define('apb.util.Message', {
             fn: cb
         });
     },
+},function(cls){
+    //console.log('cls',cls)
+    if(!abp.msg) abp.msg=new cls();
 });

@@ -919,13 +919,13 @@ $include-abp-component-page-formpagectl: dynamic(true);;
 $include-abp-component-page-listpage: dynamic(true);;
 $include-abp-component-page-listpagectl: dynamic(true);;
 $include-abp-store-personnel: dynamic(true);;
+$include-abp-util-abputil: dynamic(true);;
+$include-abp-util-message: dynamic(true);;
 $include-abp-view-main-form: dynamic(true);;
 $include-abp-view-main-list: dynamic(true);;
 $include-abp-view-main-main: dynamic(true);;
 $include-abp-view-main-maincontroller: dynamic(true);;
 $include-abp-view-main-mainmodel: dynamic(true);;
-$include-apb-util-abputil: dynamic(true);;
-$include-apb-util-message: dynamic(true);;
 $output-paths: ("path": "../../classic/resources", "shared": "../../resources");
 
 /* ======================== ETC ======================== */
