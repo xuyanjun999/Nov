@@ -15,3 +15,20 @@ F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard
 F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.dll
 F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.xml
 F:\Visual Studio 2017\Projects\Nov\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.pdb
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.deps.json
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.dll
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.pdb
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.xml
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.dll
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.RedisCache.dll
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.RedisCache.pdb
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.RedisCache.xml
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.pdb
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\bin\Debug\netstandard2.0\Abp.xml
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.csprojResolveAssemblyReference.cache
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.csproj.CoreCompileInputs.cache
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.AssemblyInfoInputs.cache
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.AssemblyInfo.cs
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.dll
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.xml
+C:\SGProject\Nov.git\Abp.RedisCache.ProtoBuf\obj\Debug\netstandard2.0\Abp.RedisCache.ProtoBuf.pdb

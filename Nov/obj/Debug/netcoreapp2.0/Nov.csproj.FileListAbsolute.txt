@@ -22,3 +22,35 @@ F:\Visual Studio 2017\Projects\Nov\Nov\bin\Debug\netcoreapp2.0\Abp.pdb
 F:\Visual Studio 2017\Projects\Nov\Nov\bin\Debug\netcoreapp2.0\Abp.xml
 F:\Visual Studio 2017\Projects\Nov\Nov\bin\Debug\netcoreapp2.0\Abp.Web.Common.pdb
 F:\Visual Studio 2017\Projects\Nov\Nov\bin\Debug\netcoreapp2.0\Abp.Web.Common.xml
+C:\SGProject\Nov.git\Nov\obj\Debug\netcoreapp2.0\Nov.csprojResolveAssemblyReference.cache
+C:\SGProject\Nov.git\Nov\obj\Debug\netcoreapp2.0\Nov.csproj.CoreCompileInputs.cache
+C:\SGProject\Nov.git\Nov\obj\Debug\netcoreapp2.0\Nov.AssemblyInfoInputs.cache
+C:\SGProject\Nov.git\Nov\obj\Debug\netcoreapp2.0\Nov.AssemblyInfo.cs
+C:\SGProject\Nov.git\Nov\obj\Debug\netcoreapp2.0\Nov.dll
+C:\SGProject\Nov.git\Nov\obj\Debug\netcoreapp2.0\Nov.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\log4net.config
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Nov.deps.json
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Nov.runtimeconfig.json
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Nov.runtimeconfig.dev.json
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Nov.dll
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Nov.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.AspNetCore.dll
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.Castle.Log4Net.dll
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.dll
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.EntityFramework.Common.dll
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.EntityFrameworkCore.dll
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.Web.Common.dll
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Nov.Data.dll
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.AspNetCore.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.AspNetCore.xml
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.Castle.Log4Net.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.Castle.Log4Net.xml
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.xml
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Nov.Data.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.Web.Common.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.Web.Common.xml
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.EntityFramework.Common.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.EntityFramework.Common.xml
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.EntityFrameworkCore.pdb
+C:\SGProject\Nov.git\Nov\bin\Debug\netcoreapp2.0\Abp.EntityFrameworkCore.xml

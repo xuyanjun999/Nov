@@ -12,3 +12,17 @@ F:\Visual Studio 2017\Projects\Nov\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.W
 F:\Visual Studio 2017\Projects\Nov\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.dll
 F:\Visual Studio 2017\Projects\Nov\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.xml
 F:\Visual Studio 2017\Projects\Nov\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.pdb
+C:\SGProject\Nov.git\Abp.Web.Common\bin\Debug\netstandard2.0\Abp.Web.Common.deps.json
+C:\SGProject\Nov.git\Abp.Web.Common\bin\Debug\netstandard2.0\Abp.Web.Common.dll
+C:\SGProject\Nov.git\Abp.Web.Common\bin\Debug\netstandard2.0\Abp.Web.Common.pdb
+C:\SGProject\Nov.git\Abp.Web.Common\bin\Debug\netstandard2.0\Abp.Web.Common.xml
+C:\SGProject\Nov.git\Abp.Web.Common\bin\Debug\netstandard2.0\Abp.dll
+C:\SGProject\Nov.git\Abp.Web.Common\bin\Debug\netstandard2.0\Abp.pdb
+C:\SGProject\Nov.git\Abp.Web.Common\bin\Debug\netstandard2.0\Abp.xml
+C:\SGProject\Nov.git\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.csprojResolveAssemblyReference.cache
+C:\SGProject\Nov.git\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.csproj.CoreCompileInputs.cache
+C:\SGProject\Nov.git\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.AssemblyInfoInputs.cache
+C:\SGProject\Nov.git\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.AssemblyInfo.cs
+C:\SGProject\Nov.git\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.dll
+C:\SGProject\Nov.git\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.xml
+C:\SGProject\Nov.git\Abp.Web.Common\obj\Debug\netstandard2.0\Abp.Web.Common.pdb

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Abp.Reflection.Extensions;
 using Abp.AspNetCore;
 using Abp.AspNetCore.Configuration;
+using Nov.Data;
 
 namespace Nov.Startup
 {

@@ -20,3 +20,14 @@ F:\Visual Studio 2017\Projects\Nov\Abp\obj\Debug\netstandard2.0\Abp.AssemblyInfo
 F:\Visual Studio 2017\Projects\Nov\Abp\obj\Debug\netstandard2.0\Abp.dll
 F:\Visual Studio 2017\Projects\Nov\Abp\obj\Debug\netstandard2.0\Abp.xml
 F:\Visual Studio 2017\Projects\Nov\Abp\obj\Debug\netstandard2.0\Abp.pdb
+C:\SGProject\Nov.git\Abp\bin\Debug\netstandard2.0\Abp.deps.json
+C:\SGProject\Nov.git\Abp\bin\Debug\netstandard2.0\Abp.dll
+C:\SGProject\Nov.git\Abp\bin\Debug\netstandard2.0\Abp.pdb
+C:\SGProject\Nov.git\Abp\bin\Debug\netstandard2.0\Abp.xml
+C:\SGProject\Nov.git\Abp\obj\Debug\netstandard2.0\Abp.csprojResolveAssemblyReference.cache
+C:\SGProject\Nov.git\Abp\obj\Debug\netstandard2.0\Abp.csproj.CoreCompileInputs.cache
+C:\SGProject\Nov.git\Abp\obj\Debug\netstandard2.0\Abp.AssemblyInfoInputs.cache
+C:\SGProject\Nov.git\Abp\obj\Debug\netstandard2.0\Abp.AssemblyInfo.cs
+C:\SGProject\Nov.git\Abp\obj\Debug\netstandard2.0\Abp.dll
+C:\SGProject\Nov.git\Abp\obj\Debug\netstandard2.0\Abp.xml
+C:\SGProject\Nov.git\Abp\obj\Debug\netstandard2.0\Abp.pdb

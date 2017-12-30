@@ -6455,35 +6455,40 @@
     ]
   },
   "packageFolders": {
-    "/Users/xuyanjun/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\xuyanjun\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.RedisCache/Abp.RedisCache.csproj",
+      "projectUniqueName": "C:\\SGProject\\Nov.git\\Abp.RedisCache\\Abp.RedisCache.csproj",
       "projectName": "Abp.RedisCache",
-      "projectPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.RedisCache/Abp.RedisCache.csproj",
-      "packagesPath": "/Users/xuyanjun/.nuget/packages/",
-      "outputPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.RedisCache/obj",
+      "projectPath": "C:\\SGProject\\Nov.git\\Abp.RedisCache\\Abp.RedisCache.csproj",
+      "packagesPath": "C:\\Users\\xuyanjun\\.nuget\\packages\\",
+      "outputPath": "C:\\SGProject\\Nov.git\\Abp.RedisCache\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/xuyanjun/.config/NuGet/NuGet.Config"
+        "C:\\Users\\xuyanjun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp/Abp.csproj": {
-              "projectPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp/Abp.csproj"
+            "C:\\SGProject\\Nov.git\\Abp\\Abp.csproj": {
+              "projectPath": "C:\\SGProject\\Nov.git\\Abp\\Abp.csproj"
             }
           }
         }
@@ -6500,12 +6505,12 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           },
           "StackExchange.Redis.StrongName": {
             "target": "Package",
-            "version": "1.2.6"
+            "version": "[1.2.6, )"
           }
         },
         "imports": [

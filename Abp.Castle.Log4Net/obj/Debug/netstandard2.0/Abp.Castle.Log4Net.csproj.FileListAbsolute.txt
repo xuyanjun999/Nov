@@ -12,3 +12,17 @@ F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\A
 F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.dll
 F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.xml
 F:\Visual Studio 2017\Projects\Nov\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.pdb
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.Castle.Log4Net.deps.json
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.Castle.Log4Net.dll
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.Castle.Log4Net.pdb
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.Castle.Log4Net.xml
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.dll
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.pdb
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\bin\Debug\netstandard2.0\Abp.xml
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.csprojResolveAssemblyReference.cache
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.csproj.CoreCompileInputs.cache
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.AssemblyInfoInputs.cache
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.AssemblyInfo.cs
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.dll
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.xml
+C:\SGProject\Nov.git\Abp.Castle.Log4Net\obj\Debug\netstandard2.0\Abp.Castle.Log4Net.pdb

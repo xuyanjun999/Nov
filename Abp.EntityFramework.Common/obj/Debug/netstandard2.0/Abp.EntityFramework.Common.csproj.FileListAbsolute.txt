@@ -12,3 +12,17 @@ F:\Visual Studio 2017\Projects\Nov\Abp.EntityFramework.Common\obj\Debug\netstand
 F:\Visual Studio 2017\Projects\Nov\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.dll
 F:\Visual Studio 2017\Projects\Nov\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.xml
 F:\Visual Studio 2017\Projects\Nov\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.pdb
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\bin\Debug\netstandard2.0\Abp.EntityFramework.Common.deps.json
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\bin\Debug\netstandard2.0\Abp.EntityFramework.Common.dll
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\bin\Debug\netstandard2.0\Abp.EntityFramework.Common.pdb
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\bin\Debug\netstandard2.0\Abp.EntityFramework.Common.xml
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\bin\Debug\netstandard2.0\Abp.dll
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\bin\Debug\netstandard2.0\Abp.pdb
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\bin\Debug\netstandard2.0\Abp.xml
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.csprojResolveAssemblyReference.cache
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.csproj.CoreCompileInputs.cache
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.AssemblyInfoInputs.cache
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.AssemblyInfo.cs
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.dll
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.xml
+C:\SGProject\Nov.git\Abp.EntityFramework.Common\obj\Debug\netstandard2.0\Abp.EntityFramework.Common.pdb

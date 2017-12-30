@@ -12,3 +12,17 @@ F:\Visual Studio 2017\Projects\Nov\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.A
 F:\Visual Studio 2017\Projects\Nov\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.dll
 F:\Visual Studio 2017\Projects\Nov\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.xml
 F:\Visual Studio 2017\Projects\Nov\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.pdb
+C:\SGProject\Nov.git\Abp.AutoMapper\bin\Debug\netstandard2.0\Abp.AutoMapper.deps.json
+C:\SGProject\Nov.git\Abp.AutoMapper\bin\Debug\netstandard2.0\Abp.AutoMapper.dll
+C:\SGProject\Nov.git\Abp.AutoMapper\bin\Debug\netstandard2.0\Abp.AutoMapper.pdb
+C:\SGProject\Nov.git\Abp.AutoMapper\bin\Debug\netstandard2.0\Abp.AutoMapper.xml
+C:\SGProject\Nov.git\Abp.AutoMapper\bin\Debug\netstandard2.0\Abp.dll
+C:\SGProject\Nov.git\Abp.AutoMapper\bin\Debug\netstandard2.0\Abp.pdb
+C:\SGProject\Nov.git\Abp.AutoMapper\bin\Debug\netstandard2.0\Abp.xml
+C:\SGProject\Nov.git\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.csprojResolveAssemblyReference.cache
+C:\SGProject\Nov.git\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.csproj.CoreCompileInputs.cache
+C:\SGProject\Nov.git\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.AssemblyInfoInputs.cache
+C:\SGProject\Nov.git\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.AssemblyInfo.cs
+C:\SGProject\Nov.git\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.dll
+C:\SGProject\Nov.git\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.xml
+C:\SGProject\Nov.git\Abp.AutoMapper\obj\Debug\netstandard2.0\Abp.AutoMapper.pdb

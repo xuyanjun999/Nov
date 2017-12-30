@@ -11,6 +11,7 @@ using Castle.Facilities.Logging;
 using Abp.Castle.Logging.Log4Net;
 using Castle.Core.Logging;
 using Nov.Data.DbContext;
+using Microsoft.EntityFrameworkCore;
 
 namespace Nov.Startup
 {
@@ -26,8 +27,8 @@ namespace Nov.Startup
         // This method gets called by the runtime. Use this method to add services to the container.
         public IServiceProvider ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContextPool<NovDbContext>(option=>{
-                
+            services.AddDbContextPool<NovDbContext>(optionBuilder=>{
+                optionBuilder.UseMySql("");
             });
 
             services.AddMvc();

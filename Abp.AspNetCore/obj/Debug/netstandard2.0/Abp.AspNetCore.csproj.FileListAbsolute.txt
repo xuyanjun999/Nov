@@ -15,3 +15,20 @@ F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.A
 F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.dll
 F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.xml
 F:\Visual Studio 2017\Projects\Nov\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.pdb
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.AspNetCore.deps.json
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.AspNetCore.dll
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.AspNetCore.pdb
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.AspNetCore.xml
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.dll
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.Web.Common.dll
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.Web.Common.pdb
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.Web.Common.xml
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.pdb
+C:\SGProject\Nov.git\Abp.AspNetCore\bin\Debug\netstandard2.0\Abp.xml
+C:\SGProject\Nov.git\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.csprojResolveAssemblyReference.cache
+C:\SGProject\Nov.git\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.csproj.CoreCompileInputs.cache
+C:\SGProject\Nov.git\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.AssemblyInfoInputs.cache
+C:\SGProject\Nov.git\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.AssemblyInfo.cs
+C:\SGProject\Nov.git\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.dll
+C:\SGProject\Nov.git\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.xml
+C:\SGProject\Nov.git\Abp.AspNetCore\obj\Debug\netstandard2.0\Abp.AspNetCore.pdb

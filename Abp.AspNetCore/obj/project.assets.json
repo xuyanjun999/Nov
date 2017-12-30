@@ -8172,35 +8172,40 @@
     ]
   },
   "packageFolders": {
-    "/Users/xuyanjun/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\xuyanjun\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.AspNetCore/Abp.AspNetCore.csproj",
+      "projectUniqueName": "C:\\SGProject\\Nov.git\\Abp.AspNetCore\\Abp.AspNetCore.csproj",
       "projectName": "Abp.AspNetCore",
-      "projectPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.AspNetCore/Abp.AspNetCore.csproj",
-      "packagesPath": "/Users/xuyanjun/.nuget/packages/",
-      "outputPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.AspNetCore/obj",
+      "projectPath": "C:\\SGProject\\Nov.git\\Abp.AspNetCore\\Abp.AspNetCore.csproj",
+      "packagesPath": "C:\\Users\\xuyanjun\\.nuget\\packages\\",
+      "outputPath": "C:\\SGProject\\Nov.git\\Abp.AspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/xuyanjun/.config/NuGet/NuGet.Config"
+        "C:\\Users\\xuyanjun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.Web.Common/Abp.Web.Common.csproj": {
-              "projectPath": "/Users/xuyanjun/Projects/xuyanjun999/Nov.git/Abp.Web.Common/Abp.Web.Common.csproj"
+            "C:\\SGProject\\Nov.git\\Abp.Web.Common\\Abp.Web.Common.csproj": {
+              "projectPath": "C:\\SGProject\\Nov.git\\Abp.Web.Common\\Abp.Web.Common.csproj"
             }
           }
         }
@@ -8214,27 +8219,27 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
-          "NETStandard.Library": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
-          },
-          "Microsoft.AspNetCore.Mvc": {
-            "target": "Package",
-            "version": "2.0.1"
-          },
-          "Microsoft.AspNetCore.StaticFiles": {
-            "target": "Package",
-            "version": "2.0.1"
-          },
           "Castle.LoggingFacility.MsLogging": {
             "target": "Package",
-            "version": "3.1.0"
+            "version": "[3.1.0, )"
           },
           "Castle.Windsor.MsDependencyInjection": {
             "target": "Package",
-            "version": "3.2.0"
+            "version": "[3.2.0, )"
+          },
+          "Microsoft.AspNetCore.Mvc": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
+          "Microsoft.AspNetCore.StaticFiles": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
+          "NETStandard.Library": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [
