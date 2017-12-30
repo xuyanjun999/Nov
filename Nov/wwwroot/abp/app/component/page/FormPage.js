@@ -8,7 +8,8 @@ Ext.define('abp.component.page.FormPage', {
     ],
     controller:'formpagectl',
     config: {
-        appPage: null, //父级容器
+        appPage: null, //父级容器,
+        pageData:null,
         tree: null, //左边树
         form: null, //form
     },
@@ -22,13 +23,13 @@ Ext.define('abp.component.page.FormPage', {
 
         if (tree) {
             tree.region = tree.region || "west";
-            tree.page = me;
+            tree.formPage = me;
             me.items.push(tree);
         }
         if (form) {
             if(me.layout==='border') form.region = form.region || "center";
             
-            form.page = me;
+            form.formPage = me;
             me.items.push(form);
         }
 

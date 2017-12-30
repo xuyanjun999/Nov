@@ -26,6 +26,6 @@ Ext.define('abp.component.list.GridListCtl',{
 
     oncreate_excute:function(){
         //abp.msg.success('success');
-        this.getView().fireEvent('switchPage',1);
+        this.getView().fireEvent('switchPage',1,'abc');
     }
 });

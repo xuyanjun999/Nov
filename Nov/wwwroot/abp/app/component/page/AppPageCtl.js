@@ -5,13 +5,15 @@ Ext.define('abp.component.page.AppPageCtl', {
         '*': {
             switchPage: 'onSwitchPage'
         },
-     
+
     },
-   
-    onSwitchPage: function (item) {
+
+    onSwitchPage: function (item, data) {
+        console.log('data', data);
         var view = this.getView();
         var layout = view.getLayout();
-        layout.setActiveItem(item);
-        
+        var activeItem = layout.setActiveItem(item);
+        activeItem.pageData=data;
+
     }
 });

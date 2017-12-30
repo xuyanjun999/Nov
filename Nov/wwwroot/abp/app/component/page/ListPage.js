@@ -9,6 +9,7 @@ Ext.define('abp.component.page.ListPage', {
     controller:'listpagectl',
     config: {
         appPage: null, //父级容器
+        pageData:null,
         tree: null, //左边树
         list: null, //表格
         advSearch: null, //高级查询
@@ -21,17 +22,17 @@ Ext.define('abp.component.page.ListPage', {
         me.items = me.items || [];
         if (tree) {
             tree.region = tree.region || "west";
-            tree.page = me;
+            tree.listPage = me;
             me.items.push(tree);
         }
         if (list) {
             list.region = list.region || "center";
-            list.page = me;
+            list.listPage = me;
             me.items.push(list);
         }
         if (advSearch) {
             advSearch.region = advSearch.region || "east";
-            advSearch.page = me;
+            advSearch.listPage = me;
             me.items.push(advSearch);
         }
 

@@ -2,6 +2,7 @@ Ext.define('abp.component.form.AbpForm', {
     extend: 'Ext.form.Panel',
     xtype:'abpform',
     config: {
+        formPage:null,
         needBackBtn: true
     },
     requires: [

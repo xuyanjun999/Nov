@@ -6,6 +6,7 @@ Ext.define('abp.component.list.GridList',{
     ],
     controller:'gridlistctl',
     config: {
+        listPage: null,
         enableRowEdit: false,
         enableColumnFilter: true,
         showCheckbox: true,
@@ -106,7 +107,6 @@ Ext.define('abp.component.list.GridList',{
 
         return me.tbar;
     },
-
 
     makeGrid: function () {
         var gridConfig = {
